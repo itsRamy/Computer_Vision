@@ -1,0 +1,8 @@
+streamlit==1.29.0
+opencv-python-headless==4.8.1.78
+dlib==19.24.1
+numpy==1.26.2
+scipy==1.11.4
+imutils==0.5.4
+pygame==2.5.2
+cmake==3.27.7  # Required for dlib installation
